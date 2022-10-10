@@ -36,3 +36,33 @@ For reasons of pricing time not all created crops are processed and processing i
 
 In the treatment, the accuracy of the result is checked because the license plate of the car of each photo  is known as
  the name of the photograph.
+
+References:
+
+https://www.roboflow.com
+
+https://blog.katastros.com/a?ID=01800-4bf623a1-3917-4d54-9b6a-775331ebaf05
+
+https://gist.github.com/endolith/334196bac1cac45a4893#  
+
+https://stackoverflow.com/questions/46084476/radon-transformation-in-python
+
+https://learnopencv.com/otsu-thresholding-with-opencv/ 
+
+https://towardsdatascience.com/image-enhancement-techniques-using-opencv-and-python-9191d5c30d45
+
+https://stackoverflow.com/questions/64530229/how-do-i-get-tesseract-to-read-the-license-plate-in-the-this-python-opencv-proje
+
+https://stackoverflow.com/questions/21324950/how-can-i-select-the-best-set-of-parameters-in-the-canny-edge-detection-algorith
+
+https://en.wikipedia.org/wiki/Kernel_(image_processing)
+
+https://stackoverflow.com/questions/4993082/how-can-i-sharpen-an-image-in-opencv, respuesta 66
+
+https://en.wikipedia.org/wiki/Kernel_(image_processing)
+
+https://www.sicara.fr/blog-technique/2019-03-12-edge-detection-in-opencv
+
+https://www.aprendemachinelearning.com/clasificacion-de-imagenes-en-python/
+
+   
