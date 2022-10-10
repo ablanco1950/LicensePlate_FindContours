@@ -43,6 +43,8 @@ https://www.roboflow.com
 
 https://blog.katastros.com/a?ID=01800-4bf623a1-3917-4d54-9b6a-775331ebaf05
 
+ https://github.com/ablanco1950/LicensePlate_CLAHE
+
 https://gist.github.com/endolith/334196bac1cac45a4893#  
 
 https://stackoverflow.com/questions/46084476/radon-transformation-in-python
