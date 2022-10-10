@@ -34,5 +34,5 @@ The crops created to detect the license plates and the filters that have allowed
 as well as the filters that have allowed the complete and exact recognition of the license plate by pytesseract.
 For reasons of pricing time not all created crops are processed and processing is terminated earlier.
 
-In the treatment, the accuracy of the result is checked because the license plate of the car of each photo that forms is known.
-part of the name of the photograph.
+In the treatment, the accuracy of the result is checked because the license plate of the car of each photo  is known as
+ the name of the photograph.
